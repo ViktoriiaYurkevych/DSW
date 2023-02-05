@@ -1,0 +1,10 @@
+l = [1,3,4,6,7,4,5,45,12,56]
+print(l)
+l.append(2)
+l.insert(1, 6)
+l.insert(3, 12)
+print(l)
+l.pop(0)
+l.remove(7)
+l.pop(2)
+print(l)
